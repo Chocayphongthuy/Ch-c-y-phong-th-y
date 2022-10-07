@@ -8,7 +8,7 @@
 <h2>Phát tài</h2> cây Phát Tài mang lại may mắn, cho không gian bình yên, đem tiền tài, phúc lộc đến với gia chủ
 
 <h2>Lưỡi Hổ</h2> cây Lưỡi Hổ mang ý nghĩa may mắn, giúp gia chủ phát tài, phát lộc, dồi dào tiền bạc.
-<br>
-Còn rất nhiều loài cây phong thủy nữa, cùng Chợ Cây Phong Thủy đi khám phá nhé!
+
+<h3>Còn rất nhiều loài cây phong thủy nữa, cùng Chợ Cây Phong Thủy đi khám phá nhé!</h3>
 
 https://chocayphongthuy.com/
