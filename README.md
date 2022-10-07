@@ -1,4 +1,4 @@
-Giới thiệu về các giống cây phong thủy
+<h1> Giới thiệu về các giống cây phong thủy <h1>
 Kim Tiền: đem lại may mắn tài lộc cho gia chủ.
 
 Sen đá: Cây sen đá biểu trưng cho ý chí kiên cường, phấn đấu vươn lên mãnh liệt.
